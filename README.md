@@ -11,3 +11,12 @@ All icons are available in three file types: PNG, SVG, and JPEG.
 ## GREEN-API logo examples  
 
 ![green-api-logos-prewiev](./green-api-logos-prewiev.png)  
+
+## GREEN-API affiliate logo to your website  
+
+The GREEN-API affiliate logo is available in [two file types](./powered-by-GREEN-API/): PNG and SVG.
+
+We designed four color versions: green, white, white with green, and monochrome.  
+
+![GREEN-API affiliate logo example](./powered-by-GREEN-API/green/green-powered.png)  
+
