@@ -20,3 +20,10 @@ We designed four color versions: green, white, white with green, and monochrome.
 
 ![GREEN-API affiliate logo example](./powered-by-GREEN-API/green/green-powered.png)  
 
+## GREEN-API: Marketing  
+
+The GREEN-API: Marketing logo is available in [two file types](./GREEN-API-Marketing/): PNG and SVG.  
+
+We designed two type logos in one green version.  
+
+![GREEN-API-Marketing logo example](./GREEN-API-Marketing/GREEN-API-Marketing-logo.png)  
