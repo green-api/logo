@@ -27,3 +27,5 @@ The GREEN-API: Marketing logo is available in [two file types](./GREEN-API-Marke
 We designed two type logos in one green version.  
 
 ![GREEN-API-Marketing logo example](./GREEN-API-Marketing/GREEN-API-Marketing-logo.png)  
+
+![GREEN-API-Marketing logo example](./GREEN-API-Marketing/GREEN-API-Marketing-banner.png)  
